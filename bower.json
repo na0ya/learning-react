@@ -1,0 +1,26 @@
+{
+  "name": "learning-react",
+  "version": "0.0.0",
+  "authors": [
+    "na0ya <uoh.org@outlook.com>"
+  ],
+  "description": "Sample Project for ReactJS",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "ReactJs"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.12.2"
+  }
+}
